@@ -20,4 +20,5 @@ setup(
     classifiers = [
         'Framework :: Dash',
     ],    
+    url='https://github.com/ignacioreyna/dash-component-unload.git'
 )
